@@ -1,0 +1,8 @@
+{
+    "author" : ["Jan"],
+    "description" : "Runs a Websocket Server that can receive commands and give responses",
+    "name" : "websocket_server",
+    "short" : "Websocket Server within Red",
+    "requirements" : ["websockets"],
+    "tags" : ["websocket", "server"]
+}
