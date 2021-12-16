@@ -1,0 +1,7 @@
+{
+    "author" : ["Jan"],
+    "description" : "Basic cog to implement async functionaliy back in.\n\nMainly used to experiment, have fun and make porting cogs from the  V2 days easier.",
+    "name" : "async_compatibility",
+    "short" : "**[DO NOT USE]**\nDiscord.py async compatibility layer",
+    "tags" : ["async", "red", "v2"]
+}
